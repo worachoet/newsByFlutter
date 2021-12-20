@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+const primaryColor = Color(0xff689f38);
+const textColorPrimary = Color(0xff131d25);
+const textColorSecondary = Color(0xff131d25); 
+const white_color = Color(0xffFFFFFF);
+const shadow_color = Color(0xffECECEC);
+const app_background = Color(0xfff3f5f9);
+const view_color = Color(0xffDADADA); 
+const light_grayColor = Color(0xfff5f6f7);
+const Draker_GrayColor = Color(0xff757575);
+const lite_grayColor = Color(0xfff2f5f8);
+const light_blueColor = Color(0xffe2e6ec); 
+const blueColor = Color(0xff323642);
+const DarkBlueColor = Color(0xff323642);
+var darkBgColor = Colors.grey[850];
+var LIGHTBgColor = Colors.grey[300]; 
+const kGrey400 = Color(0xff90a4ae);
+const app_background_black = Color(0xff1d2929);
+const card_background_black = Color(0xff1d2929);
+const color_primary_black = Color(0xff131d25); 
+const googleColor = Color(0xffdd4b39);
+const scafoldBackgroundColor = Color(0xff090909);
+const appBackGroundColor = Color(0xff282828);
